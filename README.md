@@ -9,3 +9,4 @@
 3. 최종 확인
 
 <img width="488" alt="화면 캡처 2020-12-16 163246" src="https://user-images.githubusercontent.com/48192081/102319019-9d93a580-3fbd-11eb-89a1-c534471700cc.png">
+<img width="489" alt="화면 캡처 2020-12-16 163307" src="https://user-images.githubusercontent.com/48192081/102319114-bbf9a100-3fbd-11eb-8b14-e4df63a0862a.png">
