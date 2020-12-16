@@ -7,3 +7,5 @@
 1. 네이버 금융, 경제 뉴스 크롤링
 2. 나이브 베이즈를 통한 긍정/부정 분류
 3. 최종 확인
+
+<img width="488" alt="화면 캡처 2020-12-16 163246" src="https://user-images.githubusercontent.com/48192081/102319019-9d93a580-3fbd-11eb-89a1-c534471700cc.png">
