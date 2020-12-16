@@ -1,0 +1,1 @@
+# GJAI_Mini_Project_Naver
